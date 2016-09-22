@@ -2510,7 +2510,7 @@
 			}
 
 		.spotlight .content {
-			padding: 2em 4em 0.1em 4em ;
+			padding: 0em 1em 0em 4em ;
 			-moz-order: 2;
 			-webkit-order: 2;
 			-ms-order: 2;
@@ -3585,6 +3585,8 @@
 		}
 
 			#cta .inner header p {
+                font-family: monospace;
+                font-size: 30px;
 				color: inherit;
 			}
 
